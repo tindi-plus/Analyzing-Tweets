@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu May  6 10:59:30 2021.
+Created on Feb 6 10:59:30 2020.
 Analyzing tweets to form opinions about the stock market
 @author: Tindi.Sommers
 """
